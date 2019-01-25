@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/thanus88/abs-configuration-service/tree/master/src/main/resources
+          uri: https://github.com/thanus88/abs-git-path.git
